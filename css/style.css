@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.okno{
+    background-color: blue;
+    min-height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.okno a{
+
+    padding: 10px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.pozadi{
+    background-color: blueviolet;
+    margin: 30px;
+    min-height: 450px;
+}
+
+.pozadi h1{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.napis{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.okenka{
+    padding: 10px;
+    margin: 25px;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 20px;
+}
+
+.c{
+    padding: 25px;
+}
+
+.pata{
+    background-color: aqua;
+    font-size: larger;
+}
+
+
+
